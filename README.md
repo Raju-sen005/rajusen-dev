@@ -17,11 +17,12 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Raju-sen005&theme=tokyonight)
 
-## 🔗 Connect With Me
 
-[LinkedIn](https://linkedin.com/in/your-profile)
+## 🌐 Connect With Me
 
-[Portfolio](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raju-sen-185990314/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Raju--sen005-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Raju-sen005)
 
 ## 🏆 GitHub Trophies
 
