@@ -5,7 +5,7 @@
 - 🔭 Currently working on React & Spring Boot Projects
 - 🌱 Learning Node.js, React Native & System Design
 - 💬 Ask me about Java, Spring Boot, React, MySQL
-- 📫 Email: your-email@example.com
+- 📫 Email: rajugbp2006@gmail.com
 
 ## 🚀 Skills
 
