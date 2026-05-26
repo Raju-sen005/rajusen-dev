@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Raju Sen</h1>
-<h3 align="center">Full Stack Developer | React | JavaScript</h3>
+<h3 align="center">Full Stack Developer | Java | Spring Boot | React</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+%7C+React;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
