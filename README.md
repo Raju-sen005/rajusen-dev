@@ -15,9 +15,7 @@
 
 ## 📊 GitHub Stats
 
-![Raju's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raju-sen005&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raju-sen005&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Raju-sen005&theme=tokyonight)
 
 ## 🔗 Connect With Me
 
